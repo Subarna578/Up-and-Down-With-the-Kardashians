@@ -9,9 +9,15 @@ Is it Kim? Kendall? Kylie?
 2. matplotlib
 
 In pandas, I have worked with
-         a) reading csv file
-         b) datasets description, info
-         c) to_string(), df[column name].str.replace() , pd.to_numeric(),                      pd.to_datetime(), df.set_index('column name'), df.loc[]
+
+   a) reading csv file
+         
+   b) datasets description, info
+         
+   c) to_string(), df[column name].str.replace() , pd.to_numeric(),
+   
+   pd.to_datetime(), df.set_index('column name'), df.loc[]
+   
         
 In matplotlib, I have worked with simple dataframe plotting.
 
