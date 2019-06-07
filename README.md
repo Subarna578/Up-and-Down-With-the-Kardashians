@@ -1,7 +1,7 @@
 # Up-and-Down-With-the-Kardashians
 
 
-![Alt text](home/kjfamilytree.png?raw=true "Title")
+![Alt Text](home/Downloads/kjfamilytree.png)
 
 In this python project, I have plot the google trends data to find out the most famous Kardashian/Jenner sister.
 Is it Kim? Kendall? Kylie?
